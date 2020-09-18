@@ -1,0 +1,3 @@
+remote\service\client\MyRemoteClient2.class
+remote\service\server\MyRemote.class
+remote\service\server\MyServer.class

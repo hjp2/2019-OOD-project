@@ -1,0 +1,6 @@
+com\mycompany\stock_pattern\Application.class
+com\mycompany\stock_pattern\StockBroker.class
+com\mycompany\stock_pattern\StockViewer.class
+com\mycompany\stock_pattern\StockMarket.class
+com\mycompany\stock_pattern\AbstractStockMarket.class
+com\mycompany\stock_pattern\StockBuyer.class

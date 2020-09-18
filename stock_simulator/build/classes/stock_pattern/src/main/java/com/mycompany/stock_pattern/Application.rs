@@ -1,0 +1,1 @@
+com.mycompany.stock_pattern.Application
